@@ -27,3 +27,4 @@ for (let file of files) {
     assert.ok(file)
     console.log('Done', file)
 }Commit ke-1
+Commit ke-2
